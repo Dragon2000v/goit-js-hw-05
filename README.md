@@ -1,2 +1,2 @@
-# goit-js-hw-02
-Branching and cycles
+# goit-js-hw-05
+Iterative methods of arrays
